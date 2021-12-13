@@ -16,7 +16,7 @@ app.use(express.json({ extended: false }));
 
 app.use("/api/users", require("./ROUTES/Users"));
 app.use("/api/auth", require("./ROUTES/Auth"));
-app.use("/api/contacts", require("./ROUTES/Contacts"));
+app.use("/api/comment", require("./ROUTES/Comment"));
 
 //serve static folder
 if(process.env.NODE_ENV === 'production'){

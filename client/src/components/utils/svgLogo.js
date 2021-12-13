@@ -1,0 +1,16 @@
+import React from 'react'
+
+const Contacts = () => (
+    <svg width="121" height="70" viewBox="0 0 121 111" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+<rect width="121" height="111" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlinkHref="#image0_1_15" transform="translate(0 -0.045045) scale(0.00444444 0.00484484)"/>
+</pattern>
+<image id="image0_1_15" width="225" height="225" xlinkHref="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAe1BMVEX///8AAADx8fHR0dH7+/tNTU2GhoalpaXd3d1iYmL19fW3t7e8vLzq6urMzMyvr68hISE8PDxHR0d1dXUTExMsLCxSUlIcHByoqKiTk5OJiYl9fX1nZ2fm5uYoKCiSkpKdnZ0zMzPY2NhaWlpwcHALCwvFxcUXFxc4ODiSGwQ2AAAFEElEQVR4nO2df1uyMBSGSVEMUtTUTDMpU/v+n/DNul4Yso2d/RCGz/1vzu2WYGc72wgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6B5h3GsfcWhHrhc9Lx7ayuI56hn6JbOmJWqZJQZ+T8umm6/E8knTL35ruunKvMU6grv3pttN4H1HF+wfm241iWOfKjhquslkRjTBeNp0g8lMaffiqun2arCiCKZNt1aLVF0wfLkquxzYYvXhzvBFPYxblwpOs89xaIsgcmf4sFY2LBUbavWmQlwaPqg2YsIWerXq59hwotiIV6bM0LKgW0PVy8GMJz5sC7o1nCk2giliMjJpwFDxRgyLAkdiKNS4oVp/wYSkA0sTBTczVLsi/aLAo3VBx4ZqIwwYwhCGMIQhDN0YxqckTSYq8YGXhpPN/5nHRfbZQcPPeamOQ42jd4bxsFLLplOGuzmnmoMs4+WZ4Y4/cTyTKPplGIuSN5Kxtl+Gj8Kavrph+KRTlVeG1zPjLMIkgk+GibQu0dQlYzjdj3T5fL6FofguvCC6EwvDwVipOfWtdGUYSwUfloL254ZHjcQ0Czc/ZtWQ/yMWCKa9csMtXaoMLw1v1XBfY3jiF8sNjSebeUtFrBpuawwFOYTcUHcRTM6Xa0PB0yxHkNPJDeUBugK8gOqm11BgkBt+G65I4z4HrBpWh01lBAnZorcwe9SE3BVpVg3XvBoYBCNhpsdfqSY0OaT8gMqq4bjGsK63cILdHl++LGwlmJbyyLDmUSNKj/tkOBFX9IMoJvPJMJCtrz2ICnllKBs+CR+TXhlKLqK4oF+G4kWo4njFL8MgE1QkGFdcG86GumwFOyTszwjzewxZUM0YpgYrPXr8oNHBrD5vhCENOAtDw+ETd2zjIjNTvYqZ9PMR4bulhJWKHRkGp3Idx5pwOjfMlBojgZcycZM/DNn5jKzu07mh5GmkBu8Z4CwHnAwv6xnnG4W5F5+uYT+dH/IhUhjHxW650WyViBKl3tyH4+j3J1xk1b699/o7rhqk3G7fk2dpmOWJw499SSQc7/MZoiWvw/OjP+yXdyU+bpK/xfzjZHMo/WVeHeiXYppNS2Mayn6Tyi4PH+LSumnEMtcTwx4Y8qaaZex9M6xLV1TJ/DKUp0X5lOK4thv2dKot7bhqu6He5mf2Vmy5oe7eWSYf3HJD6nP0P8yYmJS3IP8cpoZad+GFRXERabkn6j+NqaFo4qmeYlhFzB8S9+uaGsrXl8govoiaA5YtS7JuWJdPkzDLN6JS8/i0ozkMDXf6hkW+lLoW46aGOvFMpWriepqYdjiOoSE9JC3I552Ia6I2tGoMDWnDpjL5ugXaura6xQItMsxHwpS1iRNykGhoKFsxq1x1q6O2UP/QqGJBbasN9Q+tOfOiNhcYR96aJyvNmQCt5Yb1a714ZOwXtN4wGD3TDpA6b8udQvsNf/5VI15OhM9gfd3p+WB4+ch6Xn+Q1Pucl57xxDD43VP5dRbWNN2K9lv6Y/jH+JSuo+Hb4Ht6Pr9MvwdvmyhKT7JwzDdDOjCEIQxhCEMY+mHY/XOi2LO+DPcI3txQ8YowJbp5Xht75t63X4aqZ+51/9zE7p992f3zS+/gDNrunyPc/bOg7+A87zs4k7375+rfwbsR7uD9FnfwjpKg+++ZudD1dwVdaPn7njg7WrTo9Du7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoFX8A/Pbb0pWtQP5AAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
+
+)
+
+export default Contacts
